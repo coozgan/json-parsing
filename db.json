@@ -1,0 +1,27 @@
+{
+  "questions" : [
+    {
+      "question" : "what is the capital city of Singapore",
+      "answerList" : [
+        {
+          "A" : "Vietnam",
+          "B" : "Thailand",
+          "C" : "Singapore"
+        }
+        ],
+      "answer" : "Singapore"
+    },
+    {
+      "question" : "what is the capital city of Singapore",
+      "answerList" : [
+        {
+          "A" : "Vietnam",
+          "B" : "Thailand",
+          "C" : "Singapore"
+        }
+        ],
+      "answer" : "Singapore"
+    }
+
+    ]
+}
